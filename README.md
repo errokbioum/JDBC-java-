@@ -23,12 +23,14 @@ Les principales méthodes utilisées dans le projet sont les suivantes :
 
 ## Test
 Pour tester le projet :
-
 1. Assurez-vous que votre serveur MySQL ou Oracle est en cours d'exécution.
 3. Compilez et exécutez `Main.java` pour insérer et récupérer des données.
 
 
-## Auteurs
+   
 - [Votre Nom](https://github.com/votre_nom)
+
+## Auteurs
+
 
  
