@@ -26,6 +26,7 @@ Pour tester le projet :
 1. Assurez-vous que votre serveur MySQL ou Oracle est en cours d'exécution.
 3. Compilez et exécutez `Main.java` pour insérer et récupérer des données.
 
+[Demojdbc_edit_0_edit_0.webm](https://github.com/user-attachments/assets/6f98c53e-d0f1-440a-b4d5-551d1645f504)
 
    
 - [Votre Nom](https://github.com/votre_nom)
